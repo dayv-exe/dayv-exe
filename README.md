@@ -2,4 +2,4 @@
 - 👀 I’m interested in front-end and mobile app development
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on any front-end (react, react-native, html), kotlin, C# projects
-- 📫 How to reach me davy007@gmail.com
+- 📫 How to reach me dave.arubuike@gmail.com
