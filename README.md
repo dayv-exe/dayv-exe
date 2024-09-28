@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dayv-exe
-- 👀 I’m interested in front-end and mobile app development
+- 👀 I’m interested in back-end and mobile app development
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on any front-end (react, react-native, html), kotlin, C# projects
+- 💞️ I’m looking to collaborate on any fullstack (react, react-native, html), kotlin, C# projects
 - 📫 How to reach me dave.arubuike@gmail.com
